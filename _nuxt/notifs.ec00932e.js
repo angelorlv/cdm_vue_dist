@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{c as s,o as t,a as c}from"./entry.666009fa.js";const o={},n={class:"w-full flex justify-center items-center"},a=c("span",{class:"p-5"}," Vous n'avez reçu aucune notificaction ",-1),r=[a];function _(i,f){return t(),s("div",n,r)}const d=e(o,[["render",_]]);export{d as default};
