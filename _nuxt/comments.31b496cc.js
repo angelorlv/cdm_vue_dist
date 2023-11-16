@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{c as o,o as t,a as n}from"./entry.df8e9396.js";const s={},c=n("span",null," On est dans la section commentaire ",-1),a=[c];function r(_,m){return t(),o("div",null,a)}const d=e(s,[["render",r]]);export{d as default};
